@@ -1,6 +1,6 @@
 ## Olá! Eu sou Jorge Trindade
 
-- 👀 Tenho interesse em desenvolvimento de games
+- 👀 Tenho interesse em desenvolvimento Web
 - 📚 Estou estudando Javascript
 - 📫 Email para contato: Jorge.trindade278@gmail.com
 <div>
