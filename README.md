@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jorge Trindade
 
 - 👀 Tenho interesse em desenvolvimento Web
-- 📚 Estou estudando Javascript
+- 📚 Estou estudando html, css e Javascript
 - 📫 Email para contato: Jorge.trindade278@gmail.com
 <div>
   <a href="https://github.com/JorgeTrindadeDev">
