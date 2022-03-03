@@ -1,4 +1,5 @@
 ## Olá! Eu sou Jorge Trindade
+Repetição com correção até a exaustão leva a perfeição
 
 - 👀 Tenho interesse em desenvolvimento Web
 - 📚 Estou estudando html, css e Javascript
