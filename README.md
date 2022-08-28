@@ -1,8 +1,8 @@
 ## Olá! Eu sou Jorge Trindade
 Repetição com correção até a exaustão leva a perfeição
 
-- 👀 Tenho interesse em desenvolvimento Web
-- 📚 Estou estudando html, css e Javascript
+
+- 📚 Estudante de Defesa Cibertnética - Fatec
 - 📫 Email para contato: Jorge.trindade278@gmail.com
 <div>
   <a href="https://github.com/JorgeTrindadeDev">
