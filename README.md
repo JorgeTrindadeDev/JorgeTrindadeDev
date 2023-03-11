@@ -1,5 +1,4 @@
 ## Olá! Eu sou Jorge Trindade
-Repetição com correção até a exaustão leva a perfeição
 
 
 - 📚 Estudante de Defesa Cibertnética - Fatec
